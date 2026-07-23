@@ -1,0 +1,258 @@
+[
+  {
+    "id": 1750151230718,
+    "name": "habtamu teamr ",
+    "department": "it",
+    "email": "habtamuteamr6@gmail.com",
+    "items": "pc",
+    "reason": "fdvddbgt",
+    "supervisorStatus": "Approved",
+    "propertyManagerStatus": "Pending",
+    "securityStatus": "Approved",
+    "status": "Exited",
+    "stage": "Closed",
+    "logs": [
+      {
+        "action": "Submitted",
+        "by": "habtamuteamr6@gmail.com",
+        "at": "2025-06-17T09:07:10.718Z"
+      },
+      {
+        "action": "Supervisor Approved",
+        "by": "habtamuteamr6@gmail.com",
+        "at": "2025-06-17T09:07:23.367Z"
+      },
+      {
+        "action": "PropertyManager Approved",
+        "by": "habtamuteamr6@gmail.com",
+        "at": "2025-06-17T09:07:37.342Z"
+      },
+      {
+        "action": "Security Approved",
+        "by": "habtamuteamr6@gmail.com",
+        "at": "2025-06-17T09:07:54.397Z"
+      }
+    ],
+    "submittedAt": "2025-06-17T09:07:10.718Z",
+    "propertymanagerStatus": "Approved",
+    "exitedAt": "2025-06-17T09:07:54.397Z"
+  },
+  {
+    "id": 1750154634017,
+    "name": "habtamu teamr ",
+    "department": "it",
+    "email": "habtamuteamr6@gmail.com",
+    "items": "mouse",
+    "reason": "dcvfdvrw",
+    "supervisorStatus": "Approved",
+    "propertyManagerStatus": "Pending",
+    "securityStatus": "Approved",
+    "status": "Exited",
+    "stage": "Closed",
+    "logs": [
+      {
+        "action": "Submitted",
+        "by": "habtamuteamr6@gmail.com",
+        "at": "2025-06-17T10:03:54.018Z"
+      },
+      {
+        "action": "Supervisor Approved",
+        "by": "habtamuteamr6@gmail.com",
+        "at": "2025-06-17T10:04:09.856Z"
+      },
+      {
+        "action": "PropertyManager Approved",
+        "by": "habtamuteamr6@gmail.com",
+        "at": "2025-06-17T10:04:49.169Z"
+      },
+      {
+        "action": "Security Approved",
+        "by": "habtamuteamr6@gmail.com",
+        "at": "2025-06-17T10:05:19.976Z"
+      }
+    ],
+    "submittedAt": "2025-06-17T10:03:54.018Z",
+    "propertymanagerStatus": "Approved",
+    "exitedAt": "2025-06-17T10:05:19.976Z"
+  },
+  {
+    "id": 1750158225262,
+    "name": "habtamu teamr ",
+    "department": "it",
+    "email": "habtamuteamr6@gmail.com",
+    "items": "pc",
+    "reason": "efceec",
+    "supervisorStatus": "Approved",
+    "propertyManagerStatus": "Pending",
+    "securityStatus": "Approved",
+    "status": "Exited",
+    "stage": "Closed",
+    "logs": [
+      {
+        "action": "Submitted",
+        "by": "habtamuteamr6@gmail.com",
+        "at": "2025-06-17T11:03:45.262Z"
+      },
+      {
+        "action": "Supervisor Approved",
+        "by": "habtamuteamr6@gmail.com",
+        "at": "2025-06-17T11:14:28.082Z"
+      },
+      {
+        "action": "PropertyManager Approved",
+        "by": "habtamuteamr6@gmail.com",
+        "at": "2025-06-17T11:19:17.237Z"
+      },
+      {
+        "action": "Security Approved",
+        "by": "habtamuteamr6@gmail.com",
+        "at": "2025-06-17T11:29:27.596Z"
+      }
+    ],
+    "submittedAt": "2025-06-17T11:03:45.262Z",
+    "propertymanagerStatus": "Approved",
+    "exitedAt": "2025-06-17T11:29:27.596Z"
+  },
+  {
+    "id": 1750158849931,
+    "name": "habtamu teamr ",
+    "department": "it",
+    "email": "habtamuteamr6@gmail.com",
+    "items": "laptop",
+    "reason": "jhbfq cbv rtv",
+    "supervisorStatus": "Approved",
+    "propertyManagerStatus": "Pending",
+    "securityStatus": "Approved",
+    "status": "Exited",
+    "stage": "Closed",
+    "logs": [
+      {
+        "action": "Submitted",
+        "by": "habtamuteamr6@gmail.com",
+        "at": "2025-06-17T11:14:09.931Z"
+      },
+      {
+        "action": "Supervisor Approved",
+        "by": "habtamuteamr6@gmail.com",
+        "at": "2025-06-17T11:15:08.322Z"
+      },
+      {
+        "action": "PropertyManager Approved",
+        "by": "habtamuteamr6@gmail.com",
+        "at": "2025-06-17T11:29:17.815Z"
+      },
+      {
+        "action": "Security Approved",
+        "by": "habtamuteamr6@gmail.com",
+        "at": "2025-06-17T11:29:30.196Z"
+      }
+    ],
+    "submittedAt": "2025-06-17T11:14:09.931Z",
+    "propertymanagerStatus": "Approved",
+    "exitedAt": "2025-06-17T11:29:30.196Z"
+  },
+  {
+    "id": 1750158890754,
+    "name": "habtamu teamr ",
+    "department": "it",
+    "email": "habtamuteamr6@gmail.com",
+    "items": "pc and mouse",
+    "reason": "vnb jkfbv",
+    "supervisorStatus": "Approved",
+    "propertyManagerStatus": "Pending",
+    "securityStatus": "Pending",
+    "status": "Rejected by PropertyManager",
+    "stage": "Closed",
+    "logs": [
+      {
+        "action": "Submitted",
+        "by": "habtamuteamr6@gmail.com",
+        "at": "2025-06-17T11:14:50.754Z"
+      },
+      {
+        "action": "Supervisor Approved",
+        "by": "habtamuteamr6@gmail.com",
+        "at": "2025-06-17T11:15:15.688Z"
+      },
+      {
+        "action": "PropertyManager Rejected",
+        "by": "habtamuteamr6@gmail.com",
+        "at": "2025-06-18T05:59:13.572Z"
+      }
+    ],
+    "submittedAt": "2025-06-17T11:14:50.754Z",
+    "propertymanagerStatus": "Rejected",
+    "rejectedAt": "2025-06-18T05:59:13.572Z"
+  },
+  {
+    "id": 1750159732784,
+    "name": "habtamu teamr ",
+    "department": "it",
+    "email": "habtamuteamr6@gmail.com",
+    "items": "pc",
+    "reason": "grtt",
+    "supervisorStatus": "Approved",
+    "propertyManagerStatus": "Pending",
+    "securityStatus": "Pending",
+    "status": "Rejected by PropertyManager",
+    "stage": "Closed",
+    "logs": [
+      {
+        "action": "Submitted",
+        "by": "habtamuteamr6@gmail.com",
+        "at": "2025-06-17T11:28:52.784Z"
+      },
+      {
+        "action": "Supervisor Approved",
+        "by": "habtamuteamr6@gmail.com",
+        "at": "2025-06-17T11:29:04.823Z"
+      },
+      {
+        "action": "PropertyManager Rejected",
+        "by": "habtamuteamr6@gmail.com",
+        "at": "2025-06-18T05:59:11.471Z"
+      }
+    ],
+    "submittedAt": "2025-06-17T11:28:52.784Z",
+    "propertymanagerStatus": "Rejected",
+    "rejectedAt": "2025-06-18T05:59:11.471Z"
+  },
+  {
+    "id": 1750226323391,
+    "name": "asteraye teamr ",
+    "department": "it",
+    "email": "asterayeteamr@gmail.com",
+    "items": "laptop",
+    "reason": "clear from the company",
+    "supervisorStatus": "Approved",
+    "propertyManagerStatus": "Pending",
+    "securityStatus": "Approved",
+    "status": "Exited",
+    "stage": "Closed",
+    "logs": [
+      {
+        "action": "Submitted",
+        "by": "asterayeteamr@gmail.com",
+        "at": "2025-06-18T05:58:43.391Z"
+      },
+      {
+        "action": "Supervisor Approved",
+        "by": "asterayeteamr@gmail.com",
+        "at": "2025-06-18T05:58:56.353Z"
+      },
+      {
+        "action": "PropertyManager Approved",
+        "by": "asterayeteamr@gmail.com",
+        "at": "2025-06-18T05:59:45.650Z"
+      },
+      {
+        "action": "Security Approved",
+        "by": "asterayeteamr@gmail.com",
+        "at": "2025-06-18T05:59:59.044Z"
+      }
+    ],
+    "submittedAt": "2025-06-18T05:58:43.391Z",
+    "propertymanagerStatus": "Approved",
+    "exitedAt": "2025-06-18T05:59:59.044Z"
+  }
+]
