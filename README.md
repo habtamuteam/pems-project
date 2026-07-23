@@ -1,40 +1,106 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+Property Exit Management System (PEMS)
+Overview
 
-## Getting Started
+The Property Exit Management System (PEMS) is a full-stack web application developed during my Software Engineering internship at the Industrial Park Development Corporation (IPDC), Ethiopia.
 
-First, run the development server:
+The system digitizes the employee property clearance process by replacing paper-based workflows with an automated approval system.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+It allows employees to submit property exit requests while Supervisors, Property Managers, and Security Officers review and approve requests through a secure multi-stage workflow.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Features
+Employee Registration and Login
+JWT Authentication
+Role-Based Access Control (RBAC)
+Employee Dashboard
+Supervisor Dashboard
+Property Manager Dashboard
+Security Dashboard
+Multi-stage Approval Workflow
+Automatic PDF Exit Certificate Generation
+Email Notification using Nodemailer
+MySQL Database Integration
+Responsive User Interface
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+Technologies Used
+Frontend
+Next.js
+JavaScript
+CSS
+React
+Backend
+Node.js
+Next.js API Routes
+Database
+MySQL
+Authentication
+JWT
+bcrypt.js
+Additional Libraries
+PDFKit
+Nodemailer
+System Workflow
 
-[API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+Employee
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) instead of React pages.
+↓
 
-This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Submit Property Exit Request
 
-## Learn More
+↓
 
-To learn more about Next.js, take a look at the following resources:
+Supervisor Approval
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn-pages-router) - an interactive Next.js tutorial.
+↓
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Property Manager Verification
 
-## Deploy on Vercel
+↓
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Security Verification
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
+↓
+
+Generate PDF Certificate
+
+↓
+
+Email Certificate to Employee
+
+Project Structure
+app/
+api/
+auth/
+login/
+requests/
+
+pages/
+
+styles/
+
+lib/
+
+fonts/
+
+public/
+Learning Outcomes
+
+Through this project I gained practical experience in
+Full Stack Web Development
+REST API Development
+Authentication & Authorization
+Database Design
+System Analysis & Design
+Role-Based Access Control
+Email Integration
+PDF Generation
+Software Testing
+Software Documentation
+Author: Haftamu Teamr
+Software Engineering Graduate
+Woldia University
+Email: (habtamu.teamr@wldu.edu.et)
+GitHub:
+https://github.com/habtamuteam
+
+License:
+This project was developed for academic and internship purposes.
