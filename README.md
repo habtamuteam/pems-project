@@ -176,7 +176,7 @@ The PEMS database consists of three key entities:
 
 One user can create multiple requests, and each request can have multiple approval records linked to different roles. This relational structure supports data consistency and referential integrity.
 
-![PEMS ER Diagram](./pems-er-diagram.png)
+![PEMS ER Diagram](./PEMS_ER_Diagram_page.png)
 ## 📸 System Screenshots
 
 ### Supervisor Dashboard
