@@ -164,6 +164,24 @@ The project uses PDFKit for PDF generation.
 
 The system uses Nodemailer to send generated exit certificates to employees through email.
 
+## 📸 System Screenshots
+
+### Supervisor Dashboard
+
+![Supervisor Dashboard](./02-supervisor-dashboard.png)
+
+### Property Manager Dashboard
+
+![Property Manager Dashboard](./03-property-manager-dashboard.png)
+
+### Security Dashboard
+
+![Security Dashboard](./04-security-dashboard-redacted.png)
+
+### Property Exit Certificate
+
+![Property Exit Certificate](./05-exit-certificate.png)
+
 📚 Learning Outcomes
 
 Through this project, I gained practical experience in:
