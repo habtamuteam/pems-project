@@ -164,6 +164,20 @@ The project uses PDFKit for PDF generation.
 
 The system uses Nodemailer to send generated exit certificates to employees through email.
 
+## 🗄️ Database Design
+
+### Entity-Relationship Diagram
+
+The PEMS database consists of three key entities:
+
+- **Users** — stores system users and their roles.
+- **Requests** — stores employee property exit requests.
+- **Approvals** — stores approval records associated with requests.
+
+One user can create multiple requests, and each request can have multiple approval records linked to different roles. This relational structure supports data consistency and referential integrity. :contentReference[oaicite:1]{index=1}
+
+![PEMS ER Diagram](./pems-er-diagram.png)
+
 ## 📸 System Screenshots
 
 ### Supervisor Dashboard
